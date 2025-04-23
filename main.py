@@ -1,3 +1,6 @@
+## Samuel Rodrigues Da Rocha Lima - 2314291027
+
+
 # Entrada do usuário
 valor = float(input("Coloque o valor a ser investido: R$ "))
 dias_investido = int(input("Coloque o número de dias de investimento: "))
